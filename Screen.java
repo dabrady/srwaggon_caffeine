@@ -22,8 +22,8 @@ public class Screen extends Canvas {
 	final int WIDTH = 200;
 	final int HEIGHT = WIDTH * 10 / 16;
 	final int SCALE = 3;
-	protected int xOffset = 0, yOffset = 0;
 	final int PUREBLACK = -16777216;
+	protected int xOffset = 0, yOffset = 0;
 
 	private final BufferedImage screen = new BufferedImage(WIDTH, HEIGHT,
 																												 BufferedImage.TYPE_INT_RGB);
