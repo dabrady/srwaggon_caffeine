@@ -1,0 +1,30 @@
+GAME DESIGN IDEAS
+=================
+
+(*) storymode
+    ...
+
+(*) tictactoe
+    - implement AI
+    - GUI interface
+
+(*) pong
+    - implement AI
+    - GUI interface
+
+(*) chess / checkers
+    - if ambitious, try AI
+    - GUI interface
+
+(*) hangman
+    - GUI or no GUI
+    - randomly select words from file
+    - draw or reveal pieces of the hanging man as the game progresses
+
+(*) frogger
+    - GUI interface
+
+(*) pac man
+    - GUI interface
+
+(*)
